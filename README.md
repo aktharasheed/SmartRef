@@ -215,27 +215,6 @@ scale_pos_weight: n_neg/n_pos | subsample: 0.8 | colsample_bytree: 0.6
 3. **Custom Annotated Dataset** — 369 NBA clips with 49 hard negatives and independent referee validation. No comparable public resource exists.
 4. **Empirical Framework Evaluation** — XGBoost, LightGBM, and CatBoost systematically compared; XGBoost selected based on superior AUPRC
 
----
-
-## Acknowledgements
-
-- **Guhanathan Poravi** — Project supervisor
-- **Saicharan Gnanapiragasam** — Technical advisor
-- **Rukshan [Last Name]** — National Sri Lankan Basketball player and software engineer, who validated the basketball logic and ensured the system's biomechanical reasoning aligned with real referee decision-making
-
----
-
-## Citation
-
-```bibtex
-@misc{rasheed2022smartrefnet,
-  author    = {Muhammed Akthar Abdul Rasheed},
-  title     = {SmartRef-Net: An AI-Powered Basketball Shooting Foul Detection System with Explainable Kinematic Evidence},
-  year      = {2022},
-  institution = {University of Westminster / IIT Sri Lanka},
-  note      = {Final Year Project, BSc Computer Science}
-}
-```
 
 ---
 
