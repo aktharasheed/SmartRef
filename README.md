@@ -2,10 +2,8 @@
 
 **An AI-Powered Basketball Shooting Foul Detection System with Explainable Kinematic Evidence**
 
-> Final Year Project — BSc Computer Science  
-> University of Westminster (via IIT Sri Lanka)  
-> Author: Muhammed Akthar Abdul Rasheed (W1953520)  
-> Supervisor: Guhanathan Poravi
+> Final Year Project 
+> Author: Muhammed Akthar Abdul Rasheed 
 
 ---
 
